@@ -25,5 +25,3 @@ All of our current `@pxblue` packages will remain on NPM, but they will no longe
 ### For Designers
 
 For the most part, you won't notice any changes. All of our content, guidelines, and components will remain the same, only under a different name. All Figma resources will be renamed & no longer listed under the name "PX Blue".
-
-Details about these specific changes are available at https://brightlayer-ui.github.io/migration.
